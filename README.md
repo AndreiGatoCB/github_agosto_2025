@@ -1,3 +1,3 @@
 # Github Agosto 2025
 
-Andrei
+Andrei alteró el archivo readme.
